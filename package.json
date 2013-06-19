@@ -1,0 +1,21 @@
+{
+  "name": "my_chatroom_server",
+  "version": "0.0.0",
+  "description": "study chatroom",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeff5665/my_chatroom_server.git"
+  },
+  "author": "jeff",
+  "license": "BSD",
+  "readmeFilename": "README",
+  "gitHead": "2a343e37332609a2a9a5cd7fba8e25c5b545a3b7",
+    "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+}
+}
